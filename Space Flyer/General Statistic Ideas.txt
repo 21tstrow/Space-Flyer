@@ -1,0 +1,8 @@
+Spaceship Stats
+	-Speed
+	-Max Hp
+	-Current Hp
+	-Fuel Economy
+	-Attack Damage
+	-Crew Capacity
+    -Co Captian with variying skills depending on pay scales
